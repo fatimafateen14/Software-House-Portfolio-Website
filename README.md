@@ -1,24 +1,26 @@
-🌐 WebWrap Studio - Software House Portfolio Website
+# 🌐 WebWrap Studio - Software House Portfolio Website
 
-WebWrap Studio is a modern and responsive software house portfolio website built to showcase company services, projects, and team members. This website helps potential clients understand what the studio offers and how to get in touch.
+**WebWrap Studio** is a modern and responsive software house portfolio website built to showcase company services, projects, and team members. This website helps potential clients understand what the studio offers and how to get in touch.
 
-🧩 Pages & Features
-🏠 Home
-A professional landing page introducing WebWrap Studio with branding, mission, and call-to-action.
+## 🧩 Pages & Features
 
-💼 Projects
-A showcase of completed or ongoing projects with brief descriptions and visuals.
+- 🏠 **Home**  
+  A professional landing page introducing WebWrap Studio with branding, mission, and call-to-action.
 
-👥 Our Team
-Meet the skilled and passionate team behind WebWrap Studio with photos and bios.
+- 💼 **Projects**  
+  A showcase of completed or ongoing projects with brief descriptions and visuals.
 
-🛠️ Services
-A detailed list of development, design, and IT services offered to clients.
+- 👥 **Our Team**  
+  Meet the skilled and passionate team behind WebWrap Studio with photos and bios.
 
-📞 Contact Us
-A functional contact form and company details so users can reach out easily.
+- 🛠️ **Services**  
+  A detailed list of development, design, and IT services offered to clients.
 
-💻 Tech Stack
-HTML5
-CSS /Bootstrap
-JavaScript
+- 📞 **Contact Us**  
+  A functional contact form and company details so users can reach out easily.
+
+## 💻 Tech Stack
+
+- HTML5  
+- CSS /Bootstrap 
+- JavaScript  
