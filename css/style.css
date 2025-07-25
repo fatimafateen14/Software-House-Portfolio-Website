@@ -1,0 +1,185 @@
+.prim-color {
+    color: #B00000;
+}
+
+a {
+    cursor: pointer;
+    color: #b00000;
+    text-decoration: none;
+    line-height: 1.8;
+    
+}
+
+.navbar-nav li {
+    
+    margin-right: 2rem;
+}
+
+.logo {
+    width: 70px;
+}
+
+/* Hero Portion */
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid; */
+    margin-inline: auto;
+}
+
+.left {
+    width: 40%;
+}
+
+.right {
+    width: 60%;
+}
+
+.right img {
+    width: 100%;
+}
+
+/* About Portion */
+.about {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 3rem auto;
+}
+
+.about .card {
+    border: none !important;
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+    width: 22rem !important;
+    line-height: 1.8;
+    min-height: 300px;
+    text-align: center;
+}
+
+.img-holder {
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid; */
+    margin-inline: auto;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 21px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.img-holder img {
+    width: 80%;
+}
+
+/* services */
+
+.services {
+    margin: 5rem auto;
+}
+
+.all-services {
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 20px; */
+    justify-content: space-between;
+}
+
+/* testamonials */
+.reviews {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+/* footer */
+
+footer {
+    border-top: 1px solid rgb(203, 203, 203);
+    padding: 2rem 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-footer {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links ul {
+    list-style: none;
+}
+
+.social-media a img {
+    width: 13%;
+    margin-inline-end: 10px;
+}
+
+/* --------------------SERVICE PAGE--------------------------------- */
+
+.details {
+    display: flex;
+    align-items: center;
+}
+
+.details .left {
+    width: 60%;
+}
+
+/* ---------------------OUR TEAM-------------------------------------------- */
+.card-body:hover{
+    background-color: #b00000;
+    color: white;
+}
+.card-title:hover{
+    color: white;
+}
+.team {
+    display: flex;
+    justify-content: space-around;
+    margin: 4rem auto;
+}
+
+/* ----------------------CONTACT US ------------------------------------ */
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.div card{
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+.left-info {
+    width: 40%;
+}
+
+.dual-input {
+    display: flex;
+    gap: 10px;
+}
+
+input,
+textarea {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+.div upload:hover{
+background-color: #B00000;
+}
+.social-media-links img {
+    width: 40px;
+    margin-inline-end: 1rem;
+}
+
+.btn{
+    background-color: #b00000;
+    color: white;
+}
